@@ -1,0 +1,24 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore logs
+*.log
+
+# Ignore model files and outputs
+*.h5
+*.pkl
+*.sav
+
+# Ignore submission files
+submission.csv
+
+# Ignore JetBrains IDE folder
+.idea/
